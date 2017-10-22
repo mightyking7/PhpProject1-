@@ -1,5 +1,3 @@
-# PhpProject1-
-Making progress
-
-The PHP script and HTML  markup is an excercise from Php and MySQL Web development 
-by Luke Welling and Laura Thompson. Great book !
+#PhpProject1
+This simple web app is an inventory system for a finctional book store.
+A user of this web app would be able to add and query existing titles in thier inventory.
